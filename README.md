@@ -14,9 +14,3 @@ I recreated it ground up myself using Vue 3.
 [![Desktop Test](https://i.imgur.com/vmjJNRM.png)](https://i.imgur.com/vmjJNRM.png)
 #### ***Audit Test Performance Test `https://web.dev`***  
 [![Audit Test](https://i.imgur.com/ksV0Hrp.png)](https://i.imgur.com/ksV0Hrp.png)
-
-
-Site Link: https://www.jenuelganawed.ml
-<img src="https://i.ibb.co/jvCW0KT/image.png" width="100%" alt="image" border="0">
-<img src="https://i.ibb.co/FqYCKNV/image.png" width="100%" alt="image" border="0">
-<img src="https://i.ibb.co/d0NgXr9/image.png" width="100%" alt="image" border="0">
