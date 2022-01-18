@@ -1,5 +1,5 @@
 # HI! 🖐 My Name is ***Dmytro Hvozidikow***
-[![Netlify Status](https://dmytro-portfolio.netlify.app/)
+
 <img src="https://github.com/aleen42/badges/raw/master/src/vue.svg"/>
 <img src="https://github.com/aleen42/badges/raw/master/src/node.svg"/>
 <img src="https://github.com/aleen42/badges/raw/master/src/visual_studio_code_dfc.svg"/>
