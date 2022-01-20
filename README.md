@@ -1,4 +1,4 @@
-# HI! 🖐 My Name is ***Dmytro Hvozidikow***
+# HI! 🖐 My Name is ***Dmytro Hvozidikov***
 
 <img src="https://github.com/aleen42/badges/raw/master/src/vue.svg"/>
 <img src="https://github.com/aleen42/badges/raw/master/src/node.svg"/>
